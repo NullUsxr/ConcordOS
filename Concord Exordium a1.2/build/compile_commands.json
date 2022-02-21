@@ -1,0 +1,8 @@
+[
+  {
+    "directory": "/home/areza/Desktop/Work/Developer/build",
+    "command": "c++ -Icnkrnl.p -I. -I.. -I../include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -g -fno-PIC -fstrength-reduce -fomit-frame-pointer -fno-builtin -nostdlib -ffreestanding -std=gnu++11 -MD -MQ cnkrnl.p/src_kernel_main.cc.o -MF cnkrnl.p/src_kernel_main.cc.o.d -o cnkrnl.p/src_kernel_main.cc.o -c ../src/kernel/main.cc",
+    "file": "../src/kernel/main.cc",
+    "output": "cnkrnl.p/src_kernel_main.cc.o"
+  }
+]
