@@ -1,1 +1,0 @@
-option('arch', type: 'string', value: 'x86_64')
