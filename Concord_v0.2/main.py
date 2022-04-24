@@ -16,8 +16,6 @@ lsdir = os.listdir()
 workingdir = os.getcwd()
 print("Defining Color Scheme...")
 print("\x1b[37mDefined Color Scheme!")
-
-
 print("Primed to start User Session!")
 usersession = 1
 if usersession == 1:
@@ -35,8 +33,6 @@ try:
         print(time.strftime("%D %A %H:%M:%S"))
         print("Welcome,", osusername)
         print()
-
-
     while 1:
         class Userinput:
             validcmd = 0
