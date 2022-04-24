@@ -1,7 +1,4 @@
-import os
-import sys
-import time
-import platform
+import os, sys, time, platform
 print("Starting Concord...")
 print("Defining Variables...")
 osusername = "admin"
