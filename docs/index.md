@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to Concord.
 
-You can use the [editor on GitHub](https://github.com/NullUsxr/ConcordOS/edit/pythonversion/docs/index.md) to maintain and preview the content for your website in Markdown files.
+***LATEST RELEASE:*** *Alpha 0.2*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## How to install
 
-```markdown
-Syntax highlighted code block
+ConcordOS currently does not have any official way of installation. If you would, however like to *try* it out, you can do so with the tutorial below.
 
-# Header 1
-## Header 2
-### Header 3
+#### Step 1
+Clone the repository from the  `pythonversion` branch.
+You can download the latest [here](https://github.com/NullUsxr/ConcordOS/releases/tag/Alpha)
 
-- Bulleted
-- List
+#### Step 2
+Download the prerequisites. These include `os`, `sys`, `time`, and `platform`.
 
-1. Numbered
-2. List
+#### Step 3
+Run the `main.py` file from your standard python interpreter. For our development, we use `Virtualenv`.
 
-**Bold** and _Italic_ and `Code` text
+#### Step 4
+Enjoy your early access to Concord Alpha.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NullUsxr/ConcordOS/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For support, please email tekor.systems@gmail.com
