@@ -1,6 +1,7 @@
 import os
 import sys
 import time
+import platform
 print("Starting Concord...")
 print("Defining Variables...")
 osusername = "admin"
@@ -97,6 +98,7 @@ try:
                 print("OS:", sysname)
                 print("OS Version:", sysver)
                 print("OS Release:", sysrelease)
+                print("Architecture:", platform.machine())
                 print()
                 print("Username:", osusername)
                 print("Session:", usersession)
