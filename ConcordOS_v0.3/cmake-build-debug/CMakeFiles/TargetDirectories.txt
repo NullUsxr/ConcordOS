@@ -1,3 +1,0 @@
-/Users/areza/CLionProjects/ConcordOS_v0.3/cmake-build-debug/CMakeFiles/ConcordOS_v0_3.dir
-/Users/areza/CLionProjects/ConcordOS_v0.3/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/areza/CLionProjects/ConcordOS_v0.3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
