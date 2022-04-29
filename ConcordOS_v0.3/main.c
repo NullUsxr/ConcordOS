@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 int main() {
+    // Link to bootloader here
     printf("Starting Concord...\n");
     printf("Defining Variables...\n");
     char osuname[] = "admin";
@@ -20,7 +21,7 @@ int main() {
     printf("Searching File System...\n"); // Dont forget to add this
     printf("Primed to start User Session\n");
     printf("Clearing Screen\n");
-    system("clear");
+    system("clear"); // This doesn't work in CLion, only compiled.
     printf("%s v%g %d\n",  sysname, sysvers, sysrele);
     printf("Welcome, %s\n", osuname);
     printf("%s", cmdparam);
